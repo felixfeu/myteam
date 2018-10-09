@@ -1,0 +1,28 @@
+h1 {
+    color: red
+}
+.navbar-dark .navbar-brand {
+    color: red
+}
+.navbar-expand-lg .navbar-collapse {
+    position: sticky
+}
+.jumbotron {
+    background-image: url(fans.jpg);
+    background-attachment: fixed;
+    padding: 100px
+ }
+ .table .thead-dark th {
+     vertical-align: middle
+ }
+ .table-sm td, .table-sm th {
+     vertical-align: middle;
+ }
+#eintracht {
+    font-weight: bold;
+    color: darkred;
+}
+#unten {
+    background-color: #212529;
+    padding: 50px
+}
